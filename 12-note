@@ -1,0 +1,380 @@
+
+(C:\Users\Owner\Anaconda3) C:\Users\Owner>python
+Python 3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 1+1
+2
+>>> import turtleturtle = turtle.Turtle()turtle.position()
+  File "<stdin>", line 1
+    import turtleturtle = turtle.Turtle()turtle.position()
+                        ^
+SyntaxError: invalid syntax
+>>> import turtleturtle = turtle.Turtle()turtle.position(
+  File "<stdin>", line 1
+    import turtleturtle = turtle.Turtle()turtle.position(
+                        ^
+SyntaxError: invalid syntax
+>>> import turtleturtle = turtle.Turtle()turtle.position()
+  File "<stdin>", line 1
+    import turtleturtle = turtle.Turtle()turtle.position()
+                        ^
+SyntaxError: invalid syntax
+>>>
+>>> import turtleturtle = turtle.Turtle()turtle.position()
+  File "<stdin>", line 1
+    import turtleturtle = turtle.Turtle()turtle.position()
+                        ^
+SyntaxError: invalid syntax
+>>> import turtle
+>>> turtle = turtle.Turtle()
+>>> turtle.position()
+(0.00,0.00)
+>>>
+>>> t.home()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 't' is not defined
+>>> t.clear()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 't' is not defined
+>>> for x in range(4):
+... t.forward(200)
+  File "<stdin>", line 2
+    t.forward(200)
+    ^
+IndentationError: expected an indented block
+>>> import turtle
+>>> t = turtle.Turtle()
+>>> t.position()
+(0.00,0.00)
+>>>
+>>> t.home()
+>>> t.clear()
+>>>
+>>> for x in range(4):
+...   t.forward(200)
+...   t.left(90)
+...
+>>>
+>>> import turtle
+>>> t = turtle.Turtle()
+>>> t.position()
+(0.00,0.00)
+>>>
+>>> t.home()
+>>> t.clear()
+>>>
+>>> for x in range(10):
+...   t.forward(200)
+...   t.left(85)
+...
+>>> exit()
+
+(C:\Users\Owner\Anaconda3) C:\Users\Owner>python
+Python 3.6.0 |Anaconda 4.3.1 (64-bit)| (default, Dec 23 2016, 11:57:41) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import turtle
+>>> t = turtle.Turtle()
+>>> t.position()
+(0.00,0.00)
+>>> turtle.clear()
+>>> turtle.forward(200)
+>>> turtle.left(120)
+>>> turtle.forward(200)
+>>> turtle.left(120)
+>>> turtle.forward(200)5)
+  File "<stdin>", line 1
+    turtle.forward(200)5)
+                       ^
+SyntaxError: invalid syntax
+>>>
+>>> turtle.clear()
+>>> turtle.forward(200)
+>>> turtle.left(120)
+>>> turtle.forward(200)
+>>> turtle.left(120)
+>>> turtle.forward(200)
+>>> turtle.home()
+>>> turtle.clear()
+>>> for i in range(3):
+... turtle.forward(200)
+  File "<stdin>", line 2
+    turtle.forward(200)
+         ^
+IndentationError: expected an indented block
+>>> turtle.left(120)
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>> for i in range(3):
+... turtle.forward(200)
+  File "<stdin>", line 2
+    turtle.forward(200)
+         ^
+IndentationError: expected an indented block
+>>> turtle.left(120)
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>> for i in range(3):
+... turtle.forward(200)
+  File "<stdin>", line 2
+    turtle.forward(200)
+         ^
+IndentationError: expected an indented block
+>>> turtle.left(120)
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>> for i in range(5):
+...   turtle.forward(200)
+...   turtle.left(144)
+...
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(200)
+  File "<stdin>", line 1
+    turtle.left(200)
+    ^
+IndentationError: unexpected indent
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(200)
+  File "<stdin>", line 1
+    turtle.left(200)
+    ^
+IndentationError: unexpected indent
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(200)
+  File "<stdin>", line 1
+    turtle.left(200)
+    ^
+IndentationError: unexpected indent
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(90)
+  File "<stdin>", line 1
+    turtle.left(90)
+    ^
+IndentationError: unexpected indent
+>>>
+...
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(90)
+  File "<stdin>", line 1
+    turtle.left(90)
+    ^
+IndentationError: unexpected indent
+>>>
+... ++
+  File "<stdin>", line 2
+    ++
+     ^
+SyntaxError: invalid syntax
+>>>
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4)
+  File "<stdin>", line 1
+    for x in range(4)
+                    ^
+SyntaxError: invalid syntax
+>>>   turtle.forward(200)
+  File "<stdin>", line 1
+    turtle.forward(200)
+    ^
+IndentationError: unexpected indent
+>>>   turtle.left(90)
+  File "<stdin>", line 1
+    turtle.left(90)
+    ^
+IndentationError: unexpected indent
+>>>
+...
+>>>
+>>>
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4):
+...   turtle.forward(200)
+...   turtle.left(90)
+...
+...
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4):
+...   turtle.forward(200)
+...   turtle.left(90)
+...
+...
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>>
+>>> turtle.clear()
+>>>
+>>> for x in range(4):
+...   turtle.forward(200)
+...   turtle.left(90)
+...
+...
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for x in range(4):
+...   turtle.forward(100)
+...   turtle.left(90)
+...
+...
+>>>
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for i in range(4):
+...  for x in range(4):
+...   turtle.forward(100)
+...   turtle.left(90)
+...
+...
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for i in range(4):
+...  t.forward(20)
+...  for x in range(4):
+...   t.forward(100)
+...   t.left(90)
+...  t.left(-90)
+...
+...
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for i in range(4):
+...  t.up()
+...  t.forward(20)
+...  t.down()
+...  for x in range(4):
+...   t.forward(100)
+...   t.left(90)
+...  t.left(-90)
+...
+...
+...
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for i in range(4):
+...  t.up()
+...  t.forward(20)
+...  t.down()
+...  for x in range(4):
+...   t.forward(100)
+...   t.left(90)
+...  t.left(-90)
+...
+...
+...
+>>>
+>>> turtle.clear()
+>>>
+>>>
+>>>
+>>> turtle.clear()
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>> for i in range(4):
+...  t.up()
+...  t.forward(20)
+...  t.down()
+...  for x in range(4):
+...   t.forward(100)
+...   t.left(90)
+...  t.left(-90)
+...
+...
+...
+>>> turtle.home()
+>>> turtle.clear()
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
